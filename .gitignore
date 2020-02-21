@@ -256,3 +256,4 @@ webpack.config.DEV-*.js
 **/tsconfig.tsbuildinfo
 
 
+dist*/
